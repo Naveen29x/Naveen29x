@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 About Me<br><br>Hi, I’m Naveen 👨‍💻<br><br>I’m a passionate developer currently focusing on building strong fundamentals in Data Structures & Algorithms and Full Stack Web Development. I enjoy solving problems and creating real-world applications that improve my practical skills.<br><br>🚀 My Goals:<br><br>Become a skilled software developer<br>Crack placement opportunities in top tech companies<br>Build impactful real-world projects
 
 
